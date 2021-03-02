@@ -1,6 +1,8 @@
 [![](https://raw.githubusercontent.com/uesugi6111/uesugi6111/master/profile-summary-card-output/nord_bright/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/uesugi6111/uesugi6111/master/profile-summary-card-output/nord_bright/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/uesugi6111/uesugi6111/master/profile-summary-card-output/nord_bright/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+***
+競技プログラミング用に作っているライブラリは[ここ](https://github.com/uesugi6111/competitive-library)
 
 ![](https://komarev.com/ghpvc/?username=uesugi6111&color=green)
 
