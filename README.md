@@ -5,8 +5,6 @@
 競技プログラミング用に作っているライブラリは[ここ](https://github.com/uesugi6111/competitive-library)  
 [![library-test](https://github.com/uesugi6111/competitive-library/actions/workflows/rust.yml/badge.svg)](https://github.com/uesugi6111/competitive-library/actions/workflows/rust.yml)  
 
-***
-![](https://komarev.com/ghpvc/?username=uesugi6111&color=green)
 
 <!--
 **uesugi6111/uesugi6111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
